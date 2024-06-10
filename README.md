@@ -1,11 +1,15 @@
 # Awesome-Generation4WorldModel-papers
-Collect some papers about establishing a world model with the help of generative abilities, like text, image, and video.
 
-Feel free to PR, issue, or e-mail me if you want to add more missed papers!😊😊😊
+<img src="https://badges.toozhao.com/badges/01J00MRTXWE9M1J0X1X4NSJHS9/blue.svg" />
+
+Collect awesome papers about establishing a world model with the help of generative abilities, like text, image, and video.
+
+Feel free to request PR, issue, or e-mail me if you want to add more missing papers!😊😊😊
 
 If this repo is useful for your research, please consider star⭐⭐ or share with others~~😃😃😃
 
 Still collecting~
+
 
 ## Survey
 |  	| paper 	| Affiliation|Other useful link 	|
