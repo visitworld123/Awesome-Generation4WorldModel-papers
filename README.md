@@ -26,6 +26,7 @@ Still collecting~
 ## Video Generation for World Model (universal planner)
 |  	| paper 	| Affiliation|Other useful link 	|
 |---	|---	|---	|---|
+|12 Oct 2023|Learning to Act from Actionless Videos through Dense Correspondences|National Taiwan University, MIT|[paper](https://arxiv.org/pdf/2310.08576)<br>[Project page](https://flow-diffusion.github.io/)<br>[GitHub](https://github.com/flow-diffusion/AVDC)|
 |16 Oct 2023|Video Language Planning|DeepMind, MIT, UCB|[paper](https://arxiv.org/pdf/2310.10625)<br> [Project page](https://video-language-planning.github.io/)<br>[GitHub](https://github.com/video-language-planning/vlp_code)
 |27 Oct 2023|Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning|THU|[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ce1cbededb4b0d6202847ac1b484ee8-Paper-Conference.pdf)<br>[GitHub](https://github.com/thuml/ContextWM)
 |20 Nov 2023|Learning Universal Policies via Text-Guided Video Generation|MIT, DeepMind, UCB|[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf) <br> [Project page](https://universal-policy.github.io/) <br> [GitHub](https://github.com/flow-diffusion/AVDC)|
