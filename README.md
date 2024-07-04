@@ -1,6 +1,6 @@
 # Awesome-Generation4WorldModel-papers
 
-![badgen](https://api.infinitescript.com/badgen/count?name=visitworld123/Awesome-Generation4WorldModel-papers&ltext=Visitors)
+![Visitors](https://api.infinitescript.com/badgen/count?name=visitworld123/Awesome-Generation4WorldModel-papers&ltext=Visitors)
 
 Collect awesome papers about establishing a world model with the help of generative abilities, like text, image, and video.
 
