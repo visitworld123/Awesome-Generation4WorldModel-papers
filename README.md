@@ -1,6 +1,6 @@
 # Awesome-Generation4WorldModel-papers
 
-<img src="https://badges.toozhao.com/badges/01J00MRTXWE9M1J0X1X4NSJHS9/blue.svg" />
+![badgen](https://api.infinitescript.com/badgen/count?name=visitworld123/Awesome-Generation4WorldModel-papers&ltext=Visitors)
 
 Collect awesome papers about establishing a world model with the help of generative abilities, like text, image, and video.
 
